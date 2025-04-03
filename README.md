@@ -1,6 +1,6 @@
 # 🌍 Build Local Language Translator - Translates English, Spanish and French with Streamlit and Python Code.
 
-This project is a lightweight, offline-capable translation app for English, Spanish, and French using MarianMT models.
+Build a lightweight, offline-capable translation app for English, Spanish, and French using MarianMT models.
 
 # Features
 - Local Translation: No API keys or internet required after setup
