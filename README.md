@@ -26,7 +26,7 @@ This project is a lightweight, offline-capable translation app for English, Span
 
 # Installation
 Clone the repo:
-git clone https://github.com/yourusername/streamlit-translator.git
+git clone https://github.com/ErikElcsics/Build-Language-Translator-Local-Streamlit--Translates-English-Spanish-French-Python-Code.git
 cd streamlit-translator
 
 # Install dependencies:
