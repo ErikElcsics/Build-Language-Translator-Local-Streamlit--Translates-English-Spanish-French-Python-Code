@@ -33,7 +33,7 @@ cd streamlit-translator
 pip install streamlit transformers torch sentencepiece
 
 # Run the app:
-streamlit run translation_app.py
+streamlit run LocalLanguageTranslator.py
 
 # How It Works
 - Select Languages: Choose source/target from dropdowns.
